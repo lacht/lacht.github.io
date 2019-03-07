@@ -1,5 +1,7 @@
 theme: jekyll-theme-architect 
+
 title: Welcome to Lacht's homepage!
+
 description: Feel free to bookmark this page to keep an eye out for my project updates!
 
 ## Welcome to GitHub Pages
