@@ -1,3 +1,7 @@
+theme: jekyll-theme-architect 
+title: Welcome to Lacht's homepage!
+description: Feel free to bookmark this page to keep an eye out for my project updates!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lacht/lacht.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
