@@ -1,8 +1,6 @@
-theme: jekyll-theme-architect 
+Welcome to Lacht's homepage!
 
-title: Welcome to Lacht's homepage!
 
-description: Feel free to bookmark this page to keep an eye out for my project updates!
 
 ## Code Review 
 
@@ -77,3 +75,7 @@ print 'Sorted list of weights:', weights
 ## Databases example
 ### *Narrative*
 
+
+Feel free to bookmark this page to keep an eye out for my project updates!
+
+website theme: jekyll-theme-architect 
