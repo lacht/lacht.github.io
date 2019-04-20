@@ -5,8 +5,7 @@
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
 ## Example of Software Design and Engineering
-### *People's Weights*
-
+### *People's Weights Application*
 #### Brief Description
 The coding artifact that I used comes from the IT145 Introduction to software development course.  This class was one of the first programming classes that I took while at SNHU and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
 #### Reason for inclusion in portfolio
@@ -14,7 +13,7 @@ I wanted to ultimately develop this application further to show my progression a
 #### Reflection
 I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages of the same application, shows that Python requires fewer statements to execute the same program.
 
-Here the original program displayed in the Java language:
+Here is the original program displayed in the Java language:
 ```java
 import java.util.Scanner;
 import java.math.*;
