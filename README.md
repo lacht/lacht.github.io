@@ -1,6 +1,4 @@
-#Welcome to Lacht's homepage!
-
-
+Welcome to my homepage!
 
 ## Code Review 
 
