@@ -7,7 +7,7 @@ Welcome to my homepage!
 ## Example of Software Design and Engineering
 ### *Narrative*
 
-Here is the original weights program display in the Java language:
+Here is a weights program displayed in the Java language:
 ```java
 import java.util.Scanner;
 import java.math.*;
@@ -69,7 +69,7 @@ print 'Sorted list of weights:', weights
 ## Example of Algorithms and Data structures
 ### *Narrative*
 
-Here is an application created to calculate BMI results using python's Tkinter:
+Here is an application inspired by the weight's program which calculates an end-user's BMI results using python's Tkinter:
 ```python
 from Tkinter import *
 import tkMessageBox
