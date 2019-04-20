@@ -69,7 +69,8 @@ print 'Sorted list of weights:', weights
 ## Example of Algorithms and Data structures
 ### *Narrative*
 
-Here is an application inspired by the weight's program which calculates an end-user's BMI results using python's Tkinter:
+Here is another application inspired by the weight's program which calculates an end-user's BMI results.  This application uses Python's Tkinter to provide a graphical user interface.
+
 ```python
 from Tkinter import *
 import tkMessageBox
