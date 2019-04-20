@@ -42,7 +42,7 @@ public class PeopleWeights {
       return;}}
 ```
 
-Here is the same weights program which has been converted into the Python language:
+Here is the same weights program which has been converted into the Python language and enhanced with a sort feature:
 ```python
 weights = []
 # Add all weights to a list. Output list.
