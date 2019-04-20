@@ -10,7 +10,7 @@ Welcome to Lacht's homepage!
 ### *Narrative*
 
 Here is the weights program in Java:
-'''
+```java
 import java.util.Scanner;
 import java.math.*;
 import java.text.DecimalFormat;
@@ -45,10 +45,10 @@ public class PeopleWeights {
          //output the max 
          System.out.printf("Max weight: %.1f\n",max);
       return;}}
-'''java
+```
 
 Here is the weights program converted into Python:
-'''python
+```python
 weights = []
 # Add all weights to a list. Output list.
 for i in range(0, 4):
@@ -69,7 +69,7 @@ print '\n'
 weights.sort()
 print 'Sorted list of weights:', weights
 
-'''
+```
 
 ## Algorithms and Data structures example
 ### *Narrative*
