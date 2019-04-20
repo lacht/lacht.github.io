@@ -1,13 +1,16 @@
-Welcome to my homepage!
+# Welcome to my homepage!
 
 ## Code Review 
 
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
 ## Example of Software Design and Engineering
-### *Narrative*
+### *People's Weights*
 
-Here is a weights program displayed in the Java language:
+#### Brief Description
+The coding artifact that I used comes from the IT145 Introduction to software development course.  This class was one of the first programming classes that I took while at SNHU and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
+
+Here the original program displayed in the Java language:
 ```java
 import java.util.Scanner;
 import java.math.*;
@@ -42,7 +45,7 @@ public class PeopleWeights {
       return;}}
 ```
 
-Here is the same weights program which has been converted into the Python language and enhanced with a sort feature:
+Here is the program after it has been converted into the Python language and enhanced with a sort feature:
 ```python
 weights = []
 # Add all weights to a list. Output list.
