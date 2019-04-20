@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect 
+theme: jekyll-theme-Midnight 
 
 title: Welcome to Lacht's homepage!
 
