@@ -11,7 +11,7 @@ The coding artifact that I used comes from the IT145 Introduction to software de
 #### Reason for inclusion in portfolio
 I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by converting the existing Java code into a Python format.
 #### Reflection
-I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages of the same application, shows that Python requires fewer statements to execute the same program.
+I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages of the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
 
 Here is the original program displayed in the Java language:
 ```java
@@ -73,12 +73,16 @@ print 'Sorted list of weights:', weights
 ```
 
 ## Example of Algorithms and Data structures
-### *BMI Calculator*
+#### *BMI Calculator Application*
 
 #### Brief Description
+The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It display's the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
+#### Reason for inclusion in portfolio
+I selected this item to expand upon from my original "weights" artifact. The specific components that showcased my abilities in software development are the way the data is structured and designed to provide error-free results.  I improved upon the python application by adding a GUI framework which would be more visually appealing and user-friendly to work with.
+#### Reflection
+I had met my initial goal for this application. I would like to further expand upon this application and include it into a medical database application with security features. The first thing I learned while creating this project is that Python has a GUI creation tool called Tkinter.  I had previously thought Python was used for only command line-based applications. While working on this application, I faced challenges of preventing the user from entering anything other than numeric values. I corrected most of those issues except for one.  The only problem left is with blank entries which I am still working to fix.  I have the calculations reading exactly as per the NIH guidelines and it also displays the same results as their BMI calculator.   
 
-
-Here is another application inspired by the weight's program which calculates an end-user's BMI results.  This application uses Python's Tkinter to provide a graphical user interface.
+This application was inspired by the weight's program which calculates an end-user's BMI results.  It uses Python's Tkinter to provide a graphical user interface.
 
 ```python
 from Tkinter import *
