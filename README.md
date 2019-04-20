@@ -6,7 +6,7 @@
 
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
-## Software Design and Engineering example
+## Example of Software Design and Engineering
 ### *Narrative*
 
 Here is the original weights program display in the Java language:
@@ -68,7 +68,7 @@ print 'Sorted list of weights:', weights
 
 ```
 
-## Algorithms and Data structures example
+## Example of Algorithms and Data structures
 ### *Narrative*
 
 Here is an application created to calculate BMI results using python's Tkinter:
@@ -188,7 +188,7 @@ display_results.grid(column=1, row=5)
 win.mainloop()
 ```
 
-## Databases example
+## Example of Databases
 ### *Narrative*
 
 
