@@ -80,4 +80,4 @@ print 'Sorted list of weights:', weights
 
 Feel free to bookmark this page to keep an eye out for my project updates!
 
-website theme: jekyll-theme-architect 
+website theme: jekyll-theme-leapday
