@@ -288,7 +288,7 @@ def update_document(key, value, document):
 
 def main():
     # insert function
-    myRecord = {{"id": 5, "insurance_company": "CIGNA", 
+    myRecord = {"id": 5, "insurance_company": "CIGNA", 
     "insurance_number": 3561479, 
     "patient_firstname": "JULIE", 
     "patient_lastname": "LANDERS", 
@@ -304,7 +304,7 @@ def main():
     "bmi": "27.5", 
     "bmi_result": "Overweight", 
     "follow_up": "yes", 
-    "recommendation": "dietary changes"}}
+    "recommendation": "dietary changes"}
     insert_document(myRecord)
  
  
