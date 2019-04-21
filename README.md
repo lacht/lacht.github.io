@@ -235,16 +235,17 @@ This artifact was created to be an expansion of the BMI application.  I wanted t
 #### Reason for inclusion in portfolio
 I wanted to create an overall database.  I liked the fact that the NoSQL MongoDB database was easier to set up and modify.  
 
-Here is an example of an ERD diagram that was created for a retail database artifact. This image shows the constraint setup and flow that goes into creating a traditional relational database system.
+Here is an example of an ERD diagram that was created for a retail database artifact. This image shows the constraints and flow that must be established before creating a traditional relational database system.
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
-Here is an image of a document being retrieved from MongoDB.  
+Here is an image of a document being retrieved from MongoDB. No contraints or worrying about data types were necessary in order to set the database. 
 ![MongoDB example](https://user-images.githubusercontent.com/28314654/56476069-a5edb300-645f-11e9-9206-20b703507238.png)
 
 #### Reflection
 MongoDB still provided a learning curve for me to implement properly.  I am not sure if my problem was with MongoDB itself or the developmental environment that I had to use to interact with the database.    
 
 
+This python script opens the medicalrecords database. 
 
 ```python
 #!/usr/bin/python
@@ -260,18 +261,18 @@ collection = db['bmi']
 
 
 def insert_document(document):
-  try:
-      result = collection.save(document)
-  except ValidationError as ve:
-      abort(400, str(ve))
-  return result
+    try:
+        result = collection.save(document)
+    except ValidationError as ve:
+        abort(400, str(ve))
+    return result
 
 
 def update_document(key, value, document):
-  result = collection.update({key: value}, {'$set': document}, upsert=False, multi=False)
-  if not result:
-      abort(404, 'No document with %s : %s' % key, value)
-  return json.loads(json.dumps(result, indent=4, default=json_util.default))
+    result = collection.update({key: value}, {'$set': document}, upsert=False, multi=False)
+    if not result:
+        abort(404, 'No document with %s : %s' % key, value)
+    return json.loads(json.dumps(result, indent=4, default=json_util.default))
 
 
 def main():
@@ -279,12 +280,13 @@ def main():
     myRecord = {{"id": 5, "insurance_company": "CIGNA", "insurance_number": 3561479, "patient_firstname": "JULIE", "patient_lastname": "LANDERS", "birth_date": "Nov 5 1960", "patient_address": {"city": "WEST VIEW", "zip": 15229, "street": "Grand Ave.", "number": 645}, "exam_date": "Jun 23 2018", "height": "5ft. 3in.", "weight": "155 lbs.", "bmi": "27.5", "bmi_result": "Overweight", "follow_up": "yes", "recommendation": "dietary changes"}}
     insert_document(myRecord)
  
-    # find function
-    myquery = {"id":1}
-    mydoc = collection.find(myquery)
+ 
+# find function
+myquery = {"id": 1}
+mydoc = collection.find(myquery)
 
-    for query in mydoc:
-      print(query)
+for query in mydoc:
+    print(query)
   
 
 # update function
@@ -295,10 +297,10 @@ collection.update_one(myquery, newvalues)
 print(collection.modified_count, "documents updated.")
 
 # delete function
-myquery = { "follow_up" : "no" }
+myquery = {"follow_up": "no"}
 removed = collection.delete_many(myquery)
 print(removed.deleted_count, " documents deleted.")
-  
+
 main()
 ```
 
