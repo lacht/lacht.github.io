@@ -1,7 +1,21 @@
 # Welcome to my homepage!
 
-## Code Review 
+## Code Review
+#### Brief Description
+Code review is an audit that is performed on an application’s source code.   The code review serves the purpose of helping to improve not only the functionality and security of the code being reviewed but also the developer’s programming skills.  The review can be performed manually by having someone look at each line of code to spot errors and/or using tools specifically designed to catch common coding mistakes.
+#### Reason for inclusion in portfolio
+The code review process helps to show the necessity of using good standard coding practices.  Also by manually performing a code review, more errors can be caught than just using automated testing tools alone.   Ultimately, the review practice helps to ensure a stable application deployment.       
+#### Reflection
+The new code should be worked on initially as a separate branch from the main code.  The programmer should then create unit tests to make sure the code is functioning as designed.  They should also perform their own manual code review to ensure that all errors are caught and fixed before submitting the code for final review and integration into the main code.  
 
+Some of the code review best practices that I would advocate for are:
+1.	The author of the code should perform their own code review prior to any code being submitted for formal review and integration.  
+2.	The author or other reviewers must create a checklist of common errors to watch out for while analyzing the code.
+3.	Unit tests should be created to test how the code performs while it is running.
+4.	Last but not least, to treat the programmer with respect while reviewing their code.  If there is a coding error found, the problem is with the code and not with the programmer.  Code reviews should be a time to share knowledge and grow as a team. 
+
+
+Here is a short video showing my review of a program that I want to enhance for my ePortfolio:
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
 ## Example of Software Design and Engineering
