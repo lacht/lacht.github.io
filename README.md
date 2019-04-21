@@ -235,9 +235,11 @@ This artifact was created to be an expansion of the BMI application.  I wanted t
 #### Reason for inclusion in portfolio
 I wanted to create an overall database.  I liked the fact that the NoSQL MongoDB database was easier to set up and modify.  
 
-Here is an example of an ERD diagram that was created for a retail database artifact:
+Here is an example of an ERD diagram that was created for a retail database artifact. This image shows the constraint setup and flow that goes into creating a traditional relational database system.
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
-This image shows the constraint setup and flow that goes into creating a relational database system.
+
+Here is an image of a document being retrieved from MongoDB.  
+![MongoDB example](https://user-images.githubusercontent.com/28314654/56476069-a5edb300-645f-11e9-9206-20b703507238.png)
 
 #### Reflection
 MongoDB still provided a learning curve for me to implement properly.  I am not sure if my problem was with MongoDB itself or the developmental environment that I had to use to interact with the database.    
