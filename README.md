@@ -230,15 +230,19 @@ win.mainloop()
 #### *Example of Databases*
 
 #### Brief Description
-This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) system which requires tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be set up without adding or worrying about constraints.  It is a schema-less database.  Documents can be easily added to the collection no matter what the type.  It also offers the same CRUD capabilities as a traditional database.    
+This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) system which requires tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be set up without adding or worrying about constraints.  It is a schema-less database.  Documents can be easily added to the collection no matter what the type.  It also offers the same CRUD capabilities as a traditional database.  
 
 #### Reason for inclusion in portfolio
 I wanted to create an overall database.  I liked the fact that the NoSQL MongoDB database was easier to set up and modify.  
 
+Here is an example of an ERD diagram that was created for a retail database artifact:
+![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
+This image shows the constraint setup and flow that goes into creating a relational database system.
+
 #### Reflection
 MongoDB still provided a learning curve for me to implement properly.  I am not sure if my problem was with MongoDB itself or the developmental environment that I had to use to interact with the database.    
 
-![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
+
 
 ```python
 #!/usr/bin/python
