@@ -224,7 +224,7 @@ win.mainloop()
 
 #### Brief Description
 
-![ERD Example](https://dochub.com/lacher32/M4V7o1/erd-example-png?gdiExists=1WnHX6rjf_jFGkQgY9lEvHrh-INh_XGL2)
+![ERD Example](https://drive.google.com/file/d/1WnHX6rjf_jFGkQgY9lEvHrh-INh_XGL2/view)
 #### Reason for inclusion in portfolio
 #### Reflection
 
