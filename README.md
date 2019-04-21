@@ -8,7 +8,7 @@ In software architecture and design, I have learned that in order to develop a p
 The importance of collaboration within a team environment was key to successfully completing assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group.
 
 
-Below you will find several artifacts that I have included with this portfolio.  They demonstrate the level of my learning progression. 
+Below you will find several artifacts that I have included with this portfolio.  They demonstrate my learning progression over time. 
 
 ## Code Review
 #### Brief Description
