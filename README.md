@@ -224,7 +224,7 @@ win.mainloop()
 
 #### Brief Description
 
-![ERD Example](file:///C:/Users/tammy/OneDrive/ERD%20example.png)
+
 #### Reason for inclusion in portfolio
 #### Reflection
 
