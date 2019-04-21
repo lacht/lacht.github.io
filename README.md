@@ -230,13 +230,15 @@ win.mainloop()
 #### *Example of Databases*
 
 #### Brief Description
-The artifact that I created for this milestone was a BMI collection for the medical records database in MongoDB. I had worked with MongoDB in Advanced Programming Concepts.  But this specific artifact was created for this portfolio as an overall extension for the BMI application.  
+This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) systems which require tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be easily setup while adding documents to the collection.  It offers the same CRUD capabilities as a traditional database.    
 
 
 #### Reason for inclusion in portfolio
 
 
 #### Reflection
+
+
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
 
