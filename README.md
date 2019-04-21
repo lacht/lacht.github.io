@@ -8,7 +8,7 @@ In software architecture and design, I have learned that in order to develop a p
 The importance of collaboration within a team environment was key to successfully completing assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group.
 
 
-Below you will find several artifacts that I have included with this portfolio.  They demonstrate my learning progression over time. 
+Below you will find several artifacts that I have included with this ePortfolio.  They demonstrate my learning progression over time. All of these artifacts initially evolved from a code snippet that I had to develop for an assignment in my Introduction to Software class.  I have provided an explanation, reason for inclusion and personal reflection for each artifact.
 
 ## Code Review
 #### Brief Description
@@ -16,7 +16,8 @@ Code review is an audit that is performed on an application’s source code. The
 
 Initially, any new code should be worked on as a separate branch from the main-line code.  During the coding process, a programmer should create unit tests to make sure that their code is functioning as designed.  They should also perform their own manual code review.  This is to ensure that errors are caught and fixed before submitting their code for final review and integration into the main code.  
 
-#### Reason for inclusion in portfolio
+#### Reason for inclusion in 
+
 The code review process helps to show the necessity of using good standard coding practices.  It also serves the purpose of helping to improve not only the functionality and security of the code being reviewed but the developer’s programming skills as well.      
 
 #### Reflection
@@ -34,7 +35,7 @@ Here is a short video showing my review of a program that I want to enhance for 
 #### *Example of Software Design and Engineering*
 #### Brief Description
 The coding artifact that I used comes from my Introduction to software development course.  This class was one of the first programming classes that I took and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
-#### Reason for inclusion in portfolio
+#### Reason for inclusion in ePortfolio
 I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by converting the existing Java code into a Python format.
 #### Reflection
 I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user-friendly language.  Just comparing the two languages for the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
@@ -103,7 +104,7 @@ print 'Sorted list of weights:', weights
 
 #### Brief Description
 The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It displays the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
-#### Reason for inclusion in portfolio
+#### Reason for inclusion in ePortfolio
 I selected this item to expand upon from my original "weights" artifact. The specific components that showcased my abilities in software development are the way the data is structured and designed to provide error-free results.  I improved upon the python application by adding a GUI framework which would be more visually appealing and user-friendly to work with.
 #### Reflection
 I had met my initial goal and I would like to further expand upon this application by including a medical database. While working on this specific application, I faced challenges of preventing the user from entering anything other than numeric values. I corrected most of those issues except for one.  The only problem left is with blank entries which I am still working to fix.  I have the calculations reading exactly as per the NIH guidelines and it also displays the same results as their BMI calculator.   
@@ -232,14 +233,14 @@ win.mainloop()
 #### Brief Description
 This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) system which requires tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be set up without adding or worrying about constraints.  It is a schema-less database.  Documents can be easily added to the collection no matter what the type.  It also offers the same CRUD capabilities as a traditional database.  
 
-#### Reason for inclusion in portfolio
+#### Reason for inclusion in ePortfolio
 I wanted to create an overall database.  I liked the fact that the NoSQL MongoDB database was easier to set up and modify.  
 
 Here is an example of an ERD diagram that was created for a retail database artifact. This image shows the constraints and flow that must be established before creating a traditional relational database system.
 
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
-Here is an image of a document being retrieved from MongoDB. No contraints or worrying about data types were necessary in order to set the database. 
+Here is an image of a document being retrieved from MongoDB. No contraints or worrying about data types were necessary in order to set up the database. 
 
 ![MongoDB example](https://user-images.githubusercontent.com/28314654/56476069-a5edb300-645f-11e9-9206-20b703507238.png)
 
@@ -305,7 +306,6 @@ print(removed.deleted_count, " documents deleted.")
 
 main()
 ```
-
 
 Feel free to bookmark this page to keep an eye out for my project updates!
 
