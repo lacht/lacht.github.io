@@ -5,12 +5,12 @@
 
 ## Code Review
 #### Brief Description
-Code review is an audit that is performed on an application’s source code.   The code review serves the purpose of helping to improve not only the functionality and security of the code being reviewed but also the developer’s programming skills.  The review can be performed manually by having someone look at each line of code to spot errors and/or using tools specifically designed to catch common coding mistakes. 
+Code review is an audit that is performed on an application’s source code. The review can be performed manually by having someone look at each line of code to spot errors and/or using tools specifically designed to catch common coding mistakes. Following code review best practices will ensure a stable application deployment. 
 
 Initially, any new code should be worked on as a separate branch from the main line code.  During the coding process, a programmer should create unit tests to make sure that their code is functioning as designed.  They should also perform their own manual code review.  This is to ensure that errors are caught and fixed before submitting their code for final review and integration into the main code.  
 
 #### Reason for inclusion in portfolio
-The code review process helps to show the necessity of using good standard coding practices.  Ultimately using code review best practices helps to ensure a stable application deployment.      
+The code review process helps to show the necessity of using good standard coding practices.  It also serves the purpose of helping to improve not only the functionality and security of the code being reviewed but the developer’s programming skills as well.      
 
 #### Reflection
 Some of the code review best practices that I would advocate for are:
