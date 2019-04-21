@@ -101,7 +101,7 @@ I selected this item to expand upon from my original "weights" artifact. The spe
 #### Reflection
 I had met my initial goal for this application. I would like to further expand upon this application and include it into a medical database application with security features. The first thing I learned while creating this project is that Python has a GUI creation tool called Tkinter.  I had previously thought Python was used for only command line-based applications. While working on this application, I faced challenges of preventing the user from entering anything other than numeric values. I corrected most of those issues except for one.  The only problem left is with blank entries which I am still working to fix.  I have the calculations reading exactly as per the NIH guidelines and it also displays the same results as their BMI calculator.   
 
-This application was inspired by the weight's program which calculates an end-user's BMI results.  It uses Python's Tkinter to provide a graphical user interface.
+This application was inspired by the weight's program.  It calculates an end-user's BMI results using the height and weight values entered.  It also uses Python's Tkinter to provide a graphical user interface.
 
 ```python
 from Tkinter import *
