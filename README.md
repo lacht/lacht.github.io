@@ -240,8 +240,61 @@ MongoDB still provided a learning curve for me to implement properly.  I am not 
 
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
+```python
+#!/usr/bin/python
+import json
+from bson import json_util
+from pymongo import MongoClient
+from bottle import abort
+from pprint import pprint
+
+connection = MongoClient('localhost', 27017)
+db = connection['medicalrecords']
+collection = db['bmi']
 
 
+def insert_document(document):
+  try:
+      result = collection.save(document)
+  except ValidationError as ve:
+      abort(400, str(ve))
+  return result
+
+
+def update_document(key, value, document):
+  result = collection.update({key: value}, {'$set': document}, upsert=False, multi=False)
+  if not result:
+      abort(404, 'No document with %s : %s' % key, value)
+  return json.loads(json.dumps(result, indent=4, default=json_util.default))
+
+
+def main():
+    # insert function
+    myRecord = {{"id": 5, "insurance_company": "CIGNA", "insurance_number": 3561479, "patient_firstname": "JULIE", "patient_lastname": "LANDERS", "birth_date": "Nov 5 1960", "patient_address": {"city": "WEST VIEW", "zip": 15229, "street": "Grand Ave.", "number": 645}, "exam_date": "Jun 23 2018", "height": "5ft. 3in.", "weight": "155 lbs.", "bmi": "27.5", "bmi_result": "Overweight", "follow_up": "yes", "recommendation": "dietary changes"}}
+    insert_document(myRecord)
+ 
+    # find function
+    myquery = {"id":1}
+    mydoc = collection.find(myquery)
+
+    for query in mydoc:
+      print(query)
+  
+
+# update function
+myquery = {"insurance_number": "3561479"}
+newvalues = {"$set": {"insurance_number": "3561559"}}
+collection.update_one(myquery, newvalues)
+  
+print(collection.modified_count, "documents updated.")
+
+# delete function
+myquery = { "follow_up" : "no" }
+removed = collection.delete_many(myquery)
+print(removed.deleted_count, " documents deleted.")
+  
+main()
+```
 
 
 Feel free to bookmark this page to keep an eye out for my project updates!
