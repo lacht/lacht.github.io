@@ -2,6 +2,11 @@
 
 ## Professional Self-Assessment
 #### *Introduction*
+Throughout my course work in the Computer Science program, I have been able to scaffold the learning experience with each new class that I have taken. 
+
+In software architecture and design, I have learned that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
+
+Throughout all of my classes, I have experienced the importance of collaborating within a team environment to successfully complete assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group as well.
 
 
 
