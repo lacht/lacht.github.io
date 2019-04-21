@@ -37,7 +37,7 @@ The coding artifact that I used comes from the IT145 Introduction to software de
 #### Reason for inclusion in portfolio
 I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by converting the existing Java code into a Python format.
 #### Reflection
-I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages of the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
+I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages for the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
 
 Here is the original program displayed in the Java language:
 ```java
