@@ -5,7 +5,7 @@ Throughout my course work in the Computer Science program, I have been able to s
 
 In software architecture and design, I have learned that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
 
-Throughout all of my classes, I have experienced the importance of collaborating within a team environment to successfully complete assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group as well.
+The importance of collaboration within a team environment was key to successfully completing assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group.
 
 
 Below you will find several artifacts that I have included with this portfolio.  They demonstrate the level of my learning progression. 
@@ -14,7 +14,7 @@ Below you will find several artifacts that I have included with this portfolio. 
 #### Brief Description
 Code review is an audit that is performed on an application’s source code. The review can be performed manually by having someone look at each line of code to spot errors and/or using tools specifically designed to catch common coding mistakes. Following code review best practices will ensure a stable application deployment. 
 
-Initially, any new code should be worked on as a separate branch from the main line code.  During the coding process, a programmer should create unit tests to make sure that their code is functioning as designed.  They should also perform their own manual code review.  This is to ensure that errors are caught and fixed before submitting their code for final review and integration into the main code.  
+Initially, any new code should be worked on as a separate branch from the main-line code.  During the coding process, a programmer should create unit tests to make sure that their code is functioning as designed.  They should also perform their own manual code review.  This is to ensure that errors are caught and fixed before submitting their code for final review and integration into the main code.  
 
 #### Reason for inclusion in portfolio
 The code review process helps to show the necessity of using good standard coding practices.  It also serves the purpose of helping to improve not only the functionality and security of the code being reviewed but the developer’s programming skills as well.      
@@ -37,7 +37,7 @@ The coding artifact that I used comes from the IT145 Introduction to software de
 #### Reason for inclusion in portfolio
 I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by converting the existing Java code into a Python format.
 #### Reflection
-I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user friendly language.  Just comparing the two languages for the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
+I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user-friendly language.  Just comparing the two languages for the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
 
 Here is the original program displayed in the Java language:
 ```java
@@ -230,14 +230,13 @@ win.mainloop()
 #### *Example of Databases*
 
 #### Brief Description
-This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) systems which require tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be easily setup while adding documents to the collection.  It offers the same CRUD capabilities as a traditional database.    
-
+This artifact was created to be an expansion of the BMI application.  I wanted to incorporate a database for medical records with MongoDB. I had worked with MongoDB previously in Advanced Programming Concepts.  MongoDB is an open source database management system (DBMS). Unlike a traditional database (RDBMS) system which requires tables and design structure to be set prior to adding any information, MongoDB (NoSQL) can be set up without adding or worrying about constraints.  It is a schema-less database.  Documents can be easily added to the collection no matter what the type.  It also offers the same CRUD capabilities as a traditional database.    
 
 #### Reason for inclusion in portfolio
-
+I wanted to create an overall database.  I liked the fact that the NoSQL MongoDB database was easier to set up and modify.  
 
 #### Reflection
-
+MongoDB still provided a learning curve for me to implement properly.  I am not sure if my problem was with MongoDB itself or the developmental environment that I had to use to interact with the database.    
 
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
