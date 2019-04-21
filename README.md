@@ -23,8 +23,8 @@ Some of the code review best practices that I would advocate for are:
 Here is a short video showing my review of a program that I want to enhance for my ePortfolio:
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
-## Example of Software Design and Engineering
-#### *People's Weights Application*
+## People's Weights Program
+#### *Example of Software Design and Engineering*
 #### Brief Description
 The coding artifact that I used comes from the IT145 Introduction to software development course.  This class was one of the first programming classes that I took while at SNHU and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
 #### Reason for inclusion in portfolio
@@ -91,8 +91,8 @@ print 'Sorted list of weights:', weights
 
 ```
 
-## Example of Algorithms and Data structures
-#### *BMI Calculator Application*
+## BMI Calculator Application
+#### *Example of Algorithms and Data structures*
 
 #### Brief Description
 The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It display's the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
@@ -219,8 +219,8 @@ display_results.grid(column=1, row=5)
 win.mainloop()
 ```
 
-## Example of Databases
-#### *Database*
+## Database
+#### *Example of Databases*
 
 #### Brief Description
 ![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
