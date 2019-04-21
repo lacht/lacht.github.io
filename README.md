@@ -224,7 +224,7 @@ win.mainloop()
 
 #### Brief Description
 
-![Demo Animation](../images/demo.gif?raw=true)
+![ERD Example](../images/ERD example.png)
 #### Reason for inclusion in portfolio
 #### Reflection
 
