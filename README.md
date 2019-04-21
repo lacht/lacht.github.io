@@ -226,7 +226,7 @@ display_results.grid(column=1, row=5)
 win.mainloop()
 ```
 
-## Database
+## BMI Record Database
 #### *Example of Databases*
 
 #### Brief Description
