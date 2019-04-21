@@ -3,7 +3,15 @@
 ## Introduction
 Throughout my course work in the Computer Science program, I have been able to scaffold my learning experience with each new class that I have taken. 
 
+While Data Structures and Algorithms - learning how data is structured (such as in a list, array or hash map) and how to effectively access that data through an efficient method is also crucial to know.
+
 In software architecture and design, I have learned that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
+
+Databases – this was particularly relevant to me since I use a warehouse relational database system for my work.  I would consider this one of the most important concepts to learn since almost everyone will interact with some type of database on a daily basis.   
+
+Security - 
+
+
 
 The importance of collaboration within a team environment was key to successfully completing assignments and/or projects.  All of my classmates lived in different regions of the country which made effective communication all the more important.  Being able to communicate and share with other team members not only can provide a higher quality outcome for an application, but it can also expand the knowledge base for the whole group.
 
@@ -32,11 +40,11 @@ Here is a short video showing my review of a program that I want to enhance for 
 [Code Review video](https://youtu.be/CKUP-A3HhMI)
 
 ## People's Weights Program
-#### *Example of Software Design and Engineering*
+#### *Example of Algorithms and Data structures*
 #### Brief Description
 The coding artifact that I used comes from my Introduction to software development course.  This class was one of the first programming classes that I took and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
 #### Reason for inclusion in ePortfolio
-I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by converting the existing Java code into a Python format.
+I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information into an array. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by also converting the existing Java code into a Python format. I also provided a sort of the user's entries at the end of the program.
 #### Reflection
 I met the objective which was to take the original Java code and convert it into Python.  Python is an intuitive, user-friendly language.  Just comparing the two languages for the same application, shows that Python requires fewer statements to execute the same program. While reviewing the original Java program, I could see why such things as coding formats, commenting and naming practices are necessary. Using proper coding techniques/practices helps to quickly understand the program.  
 
@@ -100,7 +108,7 @@ print 'Sorted list of weights:', weights
 ```
 
 ## BMI Calculator Application
-#### *Example of Algorithms and Data structures*
+#### *Example of Software Design and Engineering*
 
 #### Brief Description
 The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It displays the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
