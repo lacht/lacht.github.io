@@ -1,7 +1,7 @@
 # Welcome to my homepage!
 
 ## Introduction
-Throughout my course work in the Computer Science program, I have been able to scaffold the learning experience with each new class that I have taken. 
+Throughout my course work in the Computer Science program, I have been able to scaffold my learning experience with each new class that I have taken. 
 
 In software architecture and design, I have learned that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
 
