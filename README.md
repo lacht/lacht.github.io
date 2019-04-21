@@ -230,11 +230,14 @@ win.mainloop()
 #### *Example of Databases*
 
 #### Brief Description
-![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
+The artifact that I created for this milestone was a BMI collection for the medical records database in MongoDB. I had worked with MongoDB in Advanced Programming Concepts.  But this specific artifact was created for this portfolio as an overall extension for the BMI application.  
+
 
 #### Reason for inclusion in portfolio
-#### Reflection
 
+
+#### Reflection
+![ERD example](https://user-images.githubusercontent.com/28314654/56473281-d79e5400-6436-11e9-96a9-544a1073fe94.png)
 
 
 
