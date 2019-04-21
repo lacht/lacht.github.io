@@ -223,6 +223,8 @@ win.mainloop()
 #### *Database*
 
 #### Brief Description
+
+![Demo Animation](../images/demo.gif?raw=true)
 #### Reason for inclusion in portfolio
 #### Reflection
 
