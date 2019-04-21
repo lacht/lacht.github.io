@@ -102,7 +102,7 @@ print 'Sorted list of weights:', weights
 #### *Example of Algorithms and Data structures*
 
 #### Brief Description
-The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It display's the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
+The next artifact that I created was a BMI calculator.  It takes the user’s height and weight converts it into its metric equivalents.  It then performs a calculation based on the BMI formula which is BMI = kg/m^2.  This application takes end-user input via a graphical user interface. It displays the user's calculated BMI along with a description of the range where that value falls into such as Normal weight to Extreme Obesity. 
 #### Reason for inclusion in portfolio
 I selected this item to expand upon from my original "weights" artifact. The specific components that showcased my abilities in software development are the way the data is structured and designed to provide error-free results.  I improved upon the python application by adding a GUI framework which would be more visually appealing and user-friendly to work with.
 #### Reflection
