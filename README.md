@@ -3,13 +3,13 @@
 ## Introduction
 Throughout my course work in the Computer Science program, I have been able to scaffold my learning experience with each new class that I have taken. 
 
-While Data Structures and Algorithms - learning how data is structured (such as in a list, array or hash map) and how to effectively access that data through an efficient method is also crucial to know.
+- For my Data Structures and Algorithms class, I was able to see how data is structured (such as in a list, array or hash map) and how to effectively access that data through an efficient method.  This type of knowledge is an essential for a programmer to know.
 
-In software architecture and design, I have learned that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
+- In software architecture and design, I have grasped that in order to develop a piece of software all steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
 
-Databases – this was particularly relevant to me since I use a warehouse relational database system for my work.  I would consider this one of the most important concepts to learn since almost everyone will interact with some type of database on a daily basis.   
+- My class on database design and structure was particularly relevant to me since I use a warehouse relational database system for my work.  I would consider this one of the most important concepts to learn since almost everyone will interact with some type of database on a daily basis.   
 
-Security - 
+- Security
 
 
 
