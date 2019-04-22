@@ -1,13 +1,13 @@
 # Welcome to my homepage!
 
 ## Introduction
-Throughout my course work in the Computer Science program, I have been able to build upon each new learning experience with every class that I have taken. I have 
+Throughout my course work in the Computer Science program, I have been able to build upon each new learning experience from each new class that I have taken. Here are some of the most important concepts that I have learned so far: 
 
 - For my Data Structures and Algorithms class, I was able to learn how data is structured (such as in linked lists, arrays or hash maps) and to see how that data can be accessed effectively through efficient algorithmic methods.  There are many algorithms available such as quicksort and binary search, to name a few, that can provide alternative ways to retrieve data information.  The key is to find the right algorithm that can efficiently solve the problem at hand.
 
 - In software architecture and design, I have grasped that in order to develop a piece of software all processing steps must be conceptualized prior to any actual coding taking place.  This high-level conceptualization identifies all use-case scenarios and then maps them out using a UML diagram to provide an understanding of how the new application will fit into the current framework.  This type of design planning requires excellent communication with the stakeholders and end-users in order to identify all of the requirements, including any possible architectural framework changes, necessary for the new application to be successfully implemented.   
 
-- With my database design and structure class, I was able to figuratively look behind the scenes of my current employer's warehouse relational database system. This course was particularly relevant to me since my current non-IT position requires me to work with a database system.  I would consider this one of the most important concepts to learn since almost everyone interacts with some type of database on a daily basis.   
+- With my database design and structure class, I was able to figuratively look behind the scenes of my current employer's warehouse relational database system. This course was particularly relevant to me since my current non-IT position requires me to work with a database system.  I was able to learn how database's are first conceptualized and then planned by mapping how tables and their entities will relate to each other prior to any data being stored.  I would consider this one of the most important concepts to learn since almost everyone interacts with some type of database on a daily basis.   
 
 - Security
 
@@ -30,8 +30,8 @@ The code review process helps to show the necessity of using good standard codin
 
 #### Reflection
 Some of the code review best practices that I would advocate for are:
-1.	The author of the code should perform their own code review prior to any code being submitted for formal review and integration.  
-2.	The author or other reviewers must create a checklist of common errors to watch out for while analyzing the code.
+1.	The author or other reviewers must create a checklist of common errors to watch out for while analyzing the code.
+2.	The author of the code should perform their own code review prior to any code being submitted for formal review and integration.
 3.	Unit tests should be created to test how the code performs while it is running.
 4.	Last but not least, to treat the programmer with respect while reviewing their code.  If there is a coding error found, the problem is with the code and not with the programmer.  Code reviews should be a time to share knowledge and grow as a team. 
 
