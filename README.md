@@ -40,7 +40,7 @@ Here is a short video showing my review of a program that I want to enhance for 
 ## People's Weights Program
 #### *Example of Algorithms and Data structures*
 #### Brief Description
-The coding artifact that I used comes from my Introduction to software development course.  This class was one of the first programming classes that I took and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with the max and average values from all the weights entered.  
+The coding artifact that I used comes from my Introduction to software development course.  This class was one of the first programming classes that I took and the programming application was an assignment in one of the last modules for the class.  The simple Java coded program takes a series of weights entered in by the user and stores it into an array of doubles.  The program is then designed to calculate the total weight along with giving the max and average values from all the weights entered.  
 #### Reason for inclusion in ePortfolio
 I wanted to ultimately develop this application further to show my progression and understanding of programming, design and storage of information into an array. This artifact is simple in execution which gives it a greater potential for overall expansion. In this first iteration, I wanted to show my knowledge of other programming languages by also converting the existing Java code into a Python format. I also provided a sort of the user's entries at the end of the program.
 #### Reflection
